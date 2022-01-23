@@ -19,7 +19,7 @@ const NSLogo = ({ animate }: any) => {
           <animate
             attributeType="CSS"
             attributeName="stroke-dashoffset"
-            dur="1s"
+            dur="1.5s"
             repeatCount="indefinite"
             from="-270px"
             to="400px"
